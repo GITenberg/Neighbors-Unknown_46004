@@ -1,0 +1,36 @@
+_repo: Neighbors-Unknown_46004
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46004-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Charles George Douglas, Sir
+    - Roberts, Sir Charles George Douglas
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2014-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46004'
+  lccn: '11000846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Anecdotes'
+tableOfContents: On the roof of the world -- Black swamp -- The isle of birds -- The
+  antlers of the caribou -- The sentry of the sedge-flats -- A tree-top aeronaut --
+  The theft -- The tunnel runners -- A torpedo in feathers -- How a cat played Robinson
+  Crusoe -- Little bull of the barrens -- The tiger of the sea -- Gray Lynx's last
+  hunting -- Mothers of the north.
+title: Neighbors Unknown
+url: http://www.gutenberg.org/ebooks/46004
